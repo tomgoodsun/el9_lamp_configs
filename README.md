@@ -1,4 +1,4 @@
-# centos8_lamp_configs
+# el9_lamp_configs
 Samples of configuration files for LAMP environment on CentOS 8
 
 # CentOS 8.x LAMP環境構築マニュアル
@@ -29,6 +29,6 @@ Samples of configuration files for LAMP environment on CentOS 8
 ここで一旦rebootして、すべて正常に起動できるかを確認する。
 
 ```bash
-[root@centos8 ~]# reboot
+[root@alma9 ~]# reboot
 ```
 
