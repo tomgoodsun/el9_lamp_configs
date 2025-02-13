@@ -1,7 +1,9 @@
 # el9_lamp_configs
-Samples of configuration files for LAMP environment on CentOS 8
 
-# CentOS 8.x LAMP環境構築マニュアル
+Samples of configuration files for LAMP environment on RHEL9
+
+# RHEL9 LAMP環境構築マニュアル
+
 インストール用のOSイメージをダウンロード
 
 - [00.初期設定](00.初期設定.md)
@@ -18,11 +20,10 @@ Samples of configuration files for LAMP environment on CentOS 8
 自動起動設定はOS起動時に自動的に立ち上がるソフトウェアを指定すること。
 
 - httpd
+- php-fpm
 - mysqld
 - chrony
 - samba
-- memcached
-
 
 ## 最後の設定
 
