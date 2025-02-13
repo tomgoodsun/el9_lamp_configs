@@ -8,8 +8,8 @@ Samples of configuration files for LAMP environment on CentOS 8
 - [01.LAMP環境の構築](01.LAMP環境の構築.md)
 - [02.時刻の設定](02.時刻の設定.md)
 - [03.Samba（Windowsファイル共有）の設定](03.Samba（Windowsファイル共有）の設定.md)
-- [04.PHPのセットアップ](04.PHPのセットアップ.md)
-- [05.ウェブサーバーのセットアップ](05.ウェブサーバーのセットアップ.md)
+- [04.ウェブサーバーのセットアップ](04.ウェブサーバーのセットアップ.md)
+- [05.PHPのセットアップ](05.PHPのセットアップ.md)
 - [06.MySQL Serverのセットアップ](06.MySQL_Serverのセットアップ.md)
 
 ## 自動起動設定
