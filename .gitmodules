@@ -1,0 +1,3 @@
+[submodule "config/root/server-tools"]
+	path = config/root/server-tools
+	url = https://github.com/tomgoodsun/server-tools.git
